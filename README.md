@@ -1,1 +1,2 @@
 # Unsupervised-Learning
+The goal of this project is to implement k means clustering on a CIFAR-10 dataset and to perform optimal clustering. In the 1st part of this project, I have implemented K Means Clustering on image data from scratch, and calculated the quality of clusters using ASC (Average Silhouette Coefficient) and DI (Dunn’s Index), while in the 2nd part, I have implemented Autoencoders using Convolutional Auto Encoders
